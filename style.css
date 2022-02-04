@@ -3,6 +3,13 @@
 body {
 	font-family: Karla,sans-serif;
 	font-size: 16px;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+footer {
+	overflow:hidden;
 }
 p {
 	margin: 0;
